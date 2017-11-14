@@ -2,15 +2,15 @@
 
 Server Side:
 
-SceureChatServer
-SceureChatServerHandler
-SceureChatClientInitializer
+SceureChatServer, 
+SceureChatServerHandler, 
+SceureChatClientInitializer ,
 
 Client Side:
 
-SceureChatClient
-SceureChatClientHandler
-SceureChatClientInitializer
+SceureChatClient, 
+SceureChatClientHandler, 
+SceureChatClientInitializer, 
 
 Kafkatut:
 
